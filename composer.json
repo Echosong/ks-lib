@@ -1,0 +1,12 @@
+{
+  "name": "echosong/ks-lib",
+  "description": "彩票 快三算法",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.6"
+  },
+
+  "autoload": {
+    "psr-4": {"Echosong\\Kuaisan\\": ""}
+  }
+}
