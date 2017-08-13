@@ -1,7 +1,6 @@
 {
   "name": "echosong/ks-lib",
   "description": "彩票 快三算法",
-  "minimum-stability": "dev",
   "license": "proprietary",
   "require": {
     "php": ">=5.6"
