@@ -37,3 +37,14 @@
     composer require "echosong/ks-lib"
   
   ## 初始化跟目录 ks.sql 数据表
+  
+  ## 使用
+  
+  ```php
+    require "vendor/autoload.php";
+    use Echosong\Kuaisan\Kuaisan;
+    $k = new Kuaisan();
+    print_r(  $k->formatMessage("大100"));
+  ```
+  
+
